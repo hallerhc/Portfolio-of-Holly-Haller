@@ -1,7 +1,7 @@
 # Portfolio-of-Holly-Haller
 
 ## Description
-
+This Website is Holly Haller's Portfolio for web developement. This website allows the user to click on the navigation bar to help direct them in the website. Images of completed projects are displayed and if clicked on will redirect the user to the active website of that project. Holly has not yet completed the full-stack web development program so this website will continue to receive updated projects as Holly gains more experience and knowledge in web developement. This website was created with .html and .css as well as seven images.
 
 ## Table of Contents
 * [Installation](#installation)
